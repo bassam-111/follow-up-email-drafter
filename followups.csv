@@ -1,0 +1,6 @@
+id,contact_name,contact_email,company,topic,last_contact_date,due_date,status,notes
+1,Ayesha Khan,ayesha@example.com,Northwind Traders,Delivery schedule confirmation,2026-10-15,2026-10-24,open,Waiting on final delivery slots
+2,Omar Farouk,omar@example.com,Harbor Logistics,Vendor quote for October events,2026-10-20,2026-10-29,open,Quote requested; no reply yet
+3,Sara Ahmed,sara@example.com,City Events Co,Final attendee list,2026-10-22,2026-11-05,open,List expected before printing
+4,David Lee,david@example.com,Peak Supplies,Invoice reconciliation,2026-10-10,2026-10-21,done,Reconciled and closed
+5,Lina Haddad,,Atlas Catering,Catering menu sign-off,2026-10-18,2026-10-25,open,No email on file — contact by phone instead
