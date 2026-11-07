@@ -3,6 +3,7 @@
 A small, runnable operations tool for Bassam Zafar (Operations Executive, BS AI).
 It reads a CSV of pending follow-ups and generates polite, ready-to-review
 email drafts for the items that are overdue or due soon.
+It is stdlib-only and has no external dependencies.
 
 **It never sends email.** It only drafts, so every message can be reviewed
 and edited before it goes out — the same review-first habit used for
